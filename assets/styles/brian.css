@@ -102,10 +102,10 @@ font-size: var(--heading);
     background-color: var(--secondary-Color) !important;
 }
 .fisherftt2okgfykr .nav-link {
+    color: var(--main-Background-Color);
     padding: 0.5rem 2rem;
 }
 .fisherftt2okgfykr{
-color: var(--main-Background-Color);
 font-weight: var(--button-font-weight);
 }
 .fisherftt2okgfykr .mt-5, 
