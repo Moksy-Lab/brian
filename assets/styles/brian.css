@@ -23,7 +23,7 @@
     --secondary-Background-Color: ;
     --secondary-Font: "Montserrat", sans-serif;
     --button-padding: 10px 40px;
-    --button-border-radius: 6px;
+    --button-border-radius: 0px;
     --button-font-weight: 500;
     --heading: 35px;
     --heading-two: 25px;
@@ -52,6 +52,7 @@ color: var(--black-Color);
     border: 1px solid var(--warning-Color);
     padding: var(--button-padding);
     color: var(--text-Color);
+    border-radius: 0px;
 }
 /*fruitft4wqz7r3sf*/
 .fruitft4wqz7r3sf h1{
